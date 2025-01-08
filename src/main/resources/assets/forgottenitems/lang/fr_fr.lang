@@ -1,0 +1,68 @@
+itemGroup.forgottenItems=Forgotten Items
+container.rune_reader=Lecteur de rune
+container.advanced_rune_reader=Lecteur de rune avancée
+
+# Added by KameiB. Item tooltips
+
+item.vein_pickaxe.desc=Mines les blocs en filons
+item.obsidian_harvester.desc=Vraiment utile pour miner de l'obsidienne
+item.heat_talisman.lore=Stocke une quantités extrêmes de chaleur
+item.heat_talisman.desc=Il n'est pas possible de charger le Talisman en mode créatif
+item.hasty_pickaxe.desc=Plus avancé que l'or
+item.gamble_pickaxe.desc=Lorsque l'on casse un bloc, il est possible de le dupliquer ou de le détruire
+item.barkified_axe.desc=Écorce automatiquement les bûches lorsqu'elles sont cassées
+item.cushioned_boots.desc=Adoucissez votre chute
+item.explosion_pickaxe.desc=Crée une explosion en cassant des blocs
+item.lifebelt.desc=Flotter dans l'eau
+item.shock_talisman.lore=Convertit les dégâts de chute en explosion
+item.ender_talisman.lore=Vous téléporte là où vous le souhaitez
+item.water_talisman.lore=Crée un bloc d'eau
+item.wind_talisman.lore=Volez avec le vent
+
+item.golem_helmet.desc=Dur comme la roche
+item.golem_chestplate.desc=Dur comme la roche
+item.golem_leggings.desc=Dur comme la roche
+item.golem_boots.desc=Dur comme la roche
+
+tooltip.forgottenitems.bound_tools.bound_to=Lié à
+tooltip.forgottenitems.bound_tools.unbound=Personne
+tooltip.forgottenitems.bound_tools.desc=Reste dans l'inventaire en cas de mort.
+
+tooltip.forgottenitems.crafting_rune.output=Sortie :
+tooltip.forgottenitems.crafting_rune.output_none=Rien/Erreur
+
+tooltip.forgottenitems.gems.desc=Il brille et scintille
+
+notif.forgottenitems.ender_talisman.outofrange=Hors de portée.
+notif.forgottenitems.recipe.core_item=§lObjet de base :§r
+notif.forgottenitems.recipe.other_items=§lAutre Objet :§r
+
+item.explosion_pickaxe.name=Pioche Explosive
+item.crafting_rune.name=Rune Artisanale
+item.gamble_pickaxe.name=Pioche Gamble
+item.vein_pickaxe.name=Pioche Veine
+item.hasty_pickaxe.name=Pioche Hâtive
+item.shock_gem.name=Gemme de Choc
+item.shock_talisman.name=Talisman de Choc
+item.heat_gem.name=Gemme de Chaleur
+item.heat_talisman.name=Talisman de la Chaleur
+item.golem_helmet.name=Casque de Golem
+item.golem_chestplate.name=Plastron de Golem
+item.golem_leggings.name=Jambière de Golem
+item.golem_boots.name=Bottes de Golem
+item.water_gem.name=Gemme de l'eau
+item.water_talisman.name=Talisman de l'eau
+item.wind_gem.name=Gemme du Vent
+item.wind_talisman.name=Talisman du Vent
+item.ender_gem.name=Gemme de l'End
+item.ender_talisman.name=Talisman de l'End
+item.cushioned_boots.name=Bottes Rembourrées
+item.obsidian_harvester.name=Moissonneur d'obsidienne
+item.bound_pickaxe.name=Pioche de liaison
+item.bound_axe.name=Hache de liaison
+item.bound_shovel.name=Pelle de liaison
+item.barkified_axe.name=Hache Écorchée
+item.lifebelt.name=Ceinture de sauvetage
+
+tile.rune_reader.name=Lecteur de rune
+tile.advanced_rune_reader.name=Lecteur de rune avancée
